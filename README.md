@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><title>About Rohan</title><meta charset="utf-8"></head>
+<head></head>About Rohan<meta charset="utf-8"></head>
 <body style="font-family:Arial;text-align:center;padding:50px;background:#f0f0f0;">
 <h1>Heyy..
   
